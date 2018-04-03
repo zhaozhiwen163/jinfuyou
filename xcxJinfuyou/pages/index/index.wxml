@@ -31,7 +31,7 @@
                <view class='gonggeImg gongge1'></view>
                <text class='gonggeTitle'>菜籽</text>
           </view>
-          <view class='naverbarEvery' data-gonggeTitle="玉米种子" data-categoryId='1465' bindtap="getsearchFn">
+          <view class='naverbarEvery' data-gonggeTitle="玉米种子" data-categoryId='1542' bindtap="getsearchFn">
                <view class='gonggeImg gongge2'></view>
                <text class='gonggeTitle'>玉米种子</text>
           </view>
